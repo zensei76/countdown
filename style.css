@@ -1,0 +1,37 @@
+body{   
+    /* background-image: url(image.jpg); */
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    
+}
+.container {
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	background-color: #ff661fbb;
+	margin:auto;
+    margin-top: 300px;
+}
+
+#countdown {
+	display: block;
+	width: 100%;
+	margin: auto;
+	padding-top: 60px;
+	text-align: center;
+	font-size: 130px;
+}
+
+#final{
+    margin-top: 30vh;
+    margin-right: 150px;
+    text-align:end;
+    font-size: 80px;
+    background-image: linear-gradient(to right,#FF671F 50%,#f5e6da ,#046A38);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    
+
+}
